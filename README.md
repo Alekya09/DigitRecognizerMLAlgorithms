@@ -14,3 +14,6 @@ After detection the following result will be displayed
 
 
 If the individual ML models need to be built with new datsets then please copy the dataset to the respective folder. Change the dataset filename in the main.py script.And run the ython file to build a new model.
+The MNIST Dataset can be loaded from the following link :
+
+https://www.kaggle.com/c/digit-recognizer/data
